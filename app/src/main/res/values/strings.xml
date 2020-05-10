@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">moovit</string>
+    <string name="text_splash_bottom_1">Copyright © Moovit-2020</string>
+    <string name="text_splash_bottom_2">All right reserved</string>
+    <string name="text_splash_center">ثبت و جستجوی مشاغل و مراکز گردشگری در سطح شهر</string>
+    <string name="toast_exit">برای خروج دوباره کلیک کنید</string>
+</resources>
